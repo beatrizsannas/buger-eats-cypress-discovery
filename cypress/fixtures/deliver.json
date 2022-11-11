@@ -1,0 +1,53 @@
+{
+
+    "signup":{
+        "name": "Beatriz Santos",
+        "cpf": "00099900000",
+        "email": "teste@teste.com",
+        "whatsapp": "81998989898",
+        "adress":{
+            "postalcode":"54230212",
+            "street":"Rua Antônio de Alcântara Machado",
+            "number":"157",
+            "details":"casa",
+            "district":"Zumbi do Pacheco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh":"cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Beatriz Santos",
+        "cpf": "000999000AA",
+        "email": "teste@teste.com",
+        "whatsapp": "81998989898",
+        "adress":{
+            "postalcode":"54230212",
+            "street":"Rua Antônio de Alcântara Machado",
+            "number":"157",
+            "details":"casa",
+            "district":"Zumbi do Pacheco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh":"cnh-digital.jpg"
+
+    },
+    "email_inv":{
+        "name": "Beatriz Santos",
+        "cpf": "00099900000",
+        "email": "teste.com.br",
+        "whatsapp": "81998989898",
+        "adress":{
+            "postalcode":"54230212",
+            "street":"Rua Antônio de Alcântara Machado",
+            "number":"157",
+            "details":"casa",
+            "district":"Zumbi do Pacheco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh":"cnh-digital.jpg"
+    }
+
+}
